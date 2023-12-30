@@ -22,13 +22,13 @@ Source: [Bolognese Sauce | Kitchen on the Cliff with Giovanna Bellia LaMarca](ht
 
    <!-- ![Pot with Butter and Olive Oil](91695a49-7a63-456e-b9ef-281dba1c59b9.webp) -->
 
-   <img height="auto" width="250vh" alt="Pot with Butter and Olive Oil"  src="91695a49-7a63-456e-b9ef-281dba1c59b9.webp"></img>
+   <img height="auto" width="250vh" alt="Pot with Butter and Olive Oil"  src="./assets/91695a49-7a63-456e-b9ef-281dba1c59b9.webp"></img>
 
 2. **Chop Vegetables:** Finely chop the onion, carrot, and celery.
 
    <!-- ![Chopped Vegetables](5817bae6-103a-4179-a299-355acf2f15f8.webp) -->
 
-   <img height="auto" width="250vh" alt="Chopped Vegetables"  src="5817bae6-103a-4179-a299-355acf2f15f8.webp"></img>
+   <img height="auto" width="250vh" alt="Chopped Vegetables"  src="./assets/5817bae6-103a-4179-a299-355acf2f15f8.webp"></img>
 
 3. **Cook Vegetables:** Add the chopped vegetables to the pot and cook until they begin to soften.
 
@@ -36,7 +36,7 @@ Source: [Bolognese Sauce | Kitchen on the Cliff with Giovanna Bellia LaMarca](ht
 
    <!-- ![Browned Meat](5d9382be-254c-4234-8180-7a91173bd30c.webp) -->
 
-   <img height="auto" width="250vh" alt="Browned Meat"  src="5d9382be-254c-4234-8180-7a91173bd30c.webp"></img>
+   <img height="auto" width="250vh" alt="Browned Meat"  src="./assets/5d9382be-254c-4234-8180-7a91173bd30c.webp"></img>
 
 5. **Deglaze with Wine:** Pour in the wine and cook for a few minutes to allow the alcohol to evaporate.
 
@@ -44,7 +44,7 @@ Source: [Bolognese Sauce | Kitchen on the Cliff with Giovanna Bellia LaMarca](ht
 
    <!-- ![Simmering Sauce](1aac360e-7ddf-4a2c-82f9-fc5fec2493c9.webp) -->
 
-   <img height="auto" width="250vh" alt="Simmering Sauce"  src="1aac360e-7ddf-4a2c-82f9-fc5fec2493c9.webp"></img>
+   <img height="auto" width="250vh" alt="Simmering Sauce"  src="./assets/1aac360e-7ddf-4a2c-82f9-fc5fec2493c9.webp"></img>
 
 7. **Season:** Add salt and nutmeg to taste.
 
@@ -54,7 +54,7 @@ Source: [Bolognese Sauce | Kitchen on the Cliff with Giovanna Bellia LaMarca](ht
 
    <!-- ![Finished Sauce](de8c54c6-b9ac-44ce-84af-f7f38723beb6.webp) -->
 
-   <img height="auto" width="250vh" alt="Finished Sauce"  src="de8c54c6-b9ac-44ce-84af-f7f38723beb6.webp"></img>
+   <img height="auto" width="250vh" alt="Finished Sauce"  src="./assets/de8c54c6-b9ac-44ce-84af-f7f38723beb6.webp"></img>
 
 10. **Serve:** Your rich and creamy meat sauce is ready to be served with your favorite pasta, lasagna, or as a bread topping.
 
